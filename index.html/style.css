@@ -1,0 +1,25 @@
+.background {
+  width: 1050px;
+  height: 699px;
+  background-image: url("uno1.jpg")
+}
+.Style{
+  margin-top: 20px
+}
+/* .phongchu{
+  margin-top:20px;
+  
+  
+} */
+/* .Style1{
+  margin-top: 20px;
+} */
+.form{
+  color: #607d8b;
+     font-weight: 500;
+     font-size: 1.5em;
+     text-transform: uppercase;
+     border-bottom: 4px solid #ff4584;
+     display: inline-block;
+     letter-spacing: 1px;
+ }
